@@ -1,1 +1,3 @@
 ![image](http://ww2.sinaimg.cn/large/a74ecc4cjw1du2pmn3tqtj.jpg)
+
+1.添加ios7适配的代码
